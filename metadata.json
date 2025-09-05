@@ -1,0 +1,7 @@
+{
+  "name": "PhotoBooth",
+  "description": "Try native image model effects with your webcam.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
